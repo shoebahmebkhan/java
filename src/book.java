@@ -8,9 +8,9 @@
     static {
         totalNoOfBooks=0;
     }
-    {
+     {
          totalNoOfBooks++;
-    }
+     }
     book(String isbn , String title , String author) {
         this.isbn = isbn;
         this.author = author;
